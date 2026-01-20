@@ -1,18 +1,5 @@
-# Curso Hands-On Git - Jupiter Desenvolvimento Informático
+# Documentação Técnica SETIC
 
-Bem-vindo ao primeiro repositório de prática!
+Repositório de documentação técnica institucional.
 
-Este projeto foi criado durante o **Dia 1** do curso Git  
-Do Básico ao Avançado (SETIC - Finanças Públicas)
-
-**Objetivo**: Aprender os fundamentos do Git  
-- git init  
-- git add  
-- git commit  
-- Os três estados: modified → staged → committed
-
-**Instrutor**: Gustavo Caraciolo  
-**Data**: Janeiro 2026  
-**Local**: Luanda, Angola
-
-Vamos começar!
+**Autor**: Kene Ninja 
